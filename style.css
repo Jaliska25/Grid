@@ -40,10 +40,10 @@ header {
 h1 {
   text-transform: uppercase;
   text-align: justify;
-  margin: 20px;
+  margin-top: 30px;
 }
 p {
-  margin: 20px;
+  margin: var(--spacing);
   text-align: justify;
   font-size: large;
 }
@@ -98,6 +98,10 @@ footer {
   padding: var(--spacing);
 }
 
+.text_footer {
+  margin-left: 0;
+}
+
 button {
   display: inline-block;
   width: 250px;
@@ -106,4 +110,10 @@ button {
   text-transform: uppercase;
   padding: 20px 40px;
   border: none;
+}
+/*---- MEDIAS QUERYS  (sin hacer aún)---- */
+@media (max-width: 1110px) {
+}
+
+@media (max-width: 550px) {
 }
