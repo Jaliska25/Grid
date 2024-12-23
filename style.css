@@ -121,7 +121,6 @@ button {
     grid-column: 1/2;
     grid-row: 1/3;
   }
-
   .school {
     grid-column: 2/3;
     grid-row: 1/2;
@@ -157,14 +156,23 @@ button {
     grid-column: 1/2;
     grid-row: 1/3;
   }
-
   .school {
     grid-column: 1/2;
     grid-row: 3/4;
+    width: 100%;
+    height: auto;
+    min-height: 200px;
+    background-size: cover;
+    background-position: center;
   }
   .student {
     grid-column: 1/2;
     grid-row: 4/5;
+    width: 100%;
+    height: auto;
+    min-height: 200px;
+    background-size: cover;
+    background-position: center;
   }
   main {
     grid-column: 1/2;
@@ -173,10 +181,20 @@ button {
   .time {
     grid-column: 1/2;
     grid-row: 6/7;
+    width: 100%;
+    height: auto;
+    min-height: 200px;
+    background-size: cover;
+    background-position: center;
   }
   .alumni {
     grid-column: 1/2;
     grid-row: 7/8;
+    width: 100%;
+    height: auto;
+    min-height: 200px;
+    background-size: cover;
+    background-position: center;
   }
   footer {
     grid-column: 1/2;
