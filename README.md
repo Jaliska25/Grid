@@ -13,8 +13,8 @@ The challenge: **"Recreate a landing page based on a provided image layout**, us
 
 ## 🛠 Technologies Used
 
-- **HTML5** – For semantic structure  
-- **CSS3 (Grid)** – For layout and responsive styling  
+- **HTML5** – For semantic structure.  
+- **CSS3 (Grid)** – For layout and responsive styling.  
 
 ## 📁 Project Structure
 grid/
