@@ -28,6 +28,8 @@ Here’s a preview of the final result:
 
 <img width="1920" height="865" alt="Captura de pantalla 2025-07-29 155556" src="https://github.com/user-attachments/assets/e343918e-c3c6-4c1a-a820-5c6ab4225ed7" />
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 🧠 This exercise was a great deep dive into CSS Grid, and it really helped me understand how powerful and precise it can be for building complex layouts. **Honestly, I found Grid much easier to work with than Flexbox** — it gave me more control over placement and alignment, especially for this kind of structured page.
 
